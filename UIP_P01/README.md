@@ -6,7 +6,7 @@ The bot takes a spreasheet and applies a filter to know the number of people tha
 
 This project is done since it is a basic and common operation in companies. To take an Excel file, apply filters and get some info based on that procedure.
 
-** Steps
+**Steps
 1. Open the Excel file
 2. Apply the filter
 3. Read the column filtered as a Range and save it to a Data Table
@@ -14,13 +14,13 @@ This project is done since it is a basic and common operation in companies. To t
 5. Log the result
 
 
-** Technologies
+**Technologies
 
 - UIPath
 - Excel
 - C#-style code
 
-** Activities
+**Activities
 - Excel activities (modern activities)
     - Excel process scope
 	- Use Excel file
