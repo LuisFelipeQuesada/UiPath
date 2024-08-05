@@ -1,10 +1,13 @@
 # Project 1
 
-This consist of a simple task in UiPath.
+This consist of a simple task in UIPath to handle an Excel file.
 
 The bot takes a spreasheet and applies a filter to know the number of people that are still working on a company.
 
 This project is done since it is a basic and common operation in companies. To take an Excel file, apply filters and get some info based on that procedure.
+
+**Requirements**
+Excel modern activities activated
 
 **Steps**
 1. Open the Excel file
@@ -12,7 +15,6 @@ This project is done since it is a basic and common operation in companies. To t
 3. Read the column filtered as a Range and save it to a Data Table
 4. Count the number of rows obtained
 5. Log the result
-
 
 **Technologies**
 
