@@ -11,7 +11,21 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "var_Response&Sequence_1",
+        "var_JSON&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "C:/Users/luisf/AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsCSharp/Snippets/Loops/For Each Child.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "iEnumerableFindChildren&Sequence_7",
+        "stringChildValue&Sequence_5"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

@@ -2,6 +2,46 @@
   "Packages": [
     {
       "Package": {
+        "Id": "UiPath.AmazonWebServices.Activities",
+        "Version": "2.7.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\3.0.0\\lib/netstandard2.0/Amazon.Extensions.Configuration.SystemsManager.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.appconfig\\3.7.0.52\\lib/netcoreapp3.1/AWSSDK.AppConfig.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.core\\3.7.3.8\\lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.ec2\\3.7.28.3\\lib/netcoreapp3.1/AWSSDK.EC2.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.1\\lib/netstandard2.0/AWSSDK.Extensions.NETCore.Setup.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.identitymanagement\\3.7.2.48\\lib/netcoreapp3.1/AWSSDK.IdentityManagement.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.s3\\3.7.3.1\\lib/netcoreapp3.1/AWSSDK.S3.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.5.14\\lib/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.2\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.2\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.3\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib/netstandard2.0/Polly.Contrib.WaitAndRetry.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.API.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.connectionclient\\2.0.3\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.23.4"
       },
@@ -10,14 +50,14 @@
         "C:\\Users\\luisf\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -27,15 +67,49 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/Office.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.API.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib/net6.0-windows7.0/UiPath.Excel.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntegrationService.Activities",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\lib/net7.0/Microsoft.Extensions.Http.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5\\lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.collections.deque\\1.1.1\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.disposables\\2.2.1\\lib/netstandard2.1/Nito.Disposables.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.3\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib/netstandard2.0/Polly.Contrib.WaitAndRetry.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly.extensions.http\\3.0.0\\lib/netstandard2.0/Polly.Extensions.Http.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.connectionclient\\2.0.3\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0\\lib/net6.0/UiPath.IntegrationService.Activities.Runtime.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0\\lib/net6.0/UiPath.IntegrationService.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0"
     },
     {
       "Package": {
@@ -46,17 +120,17 @@
         "C:\\Users\\luisf\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\lib/net6.0/BouncyCastle.Cryptography.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/netstandard2.0/HtmlAgilityPack.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\mailkit\\4.4.0\\lib/net8.0/MailKit.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
@@ -71,8 +145,8 @@
         "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0\\lib/net6.0/System.IdentityModel.Tokens.Jwt.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\5.0.0\\lib/netcoreapp3.1/System.Linq.Async.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\5.0.0\\lib/netcoreapp3.1/System.Linq.Async.Queryable.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\6.0.1\\lib/net6.0/System.Linq.Async.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib/net6.0/System.Linq.Async.Queryable.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
@@ -96,8 +170,158 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Testing.Activities",
+        "Version": "24.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\automapper\\9.0.0\\lib/netstandard2.0/AutoMapper.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "24.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.3\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath\\24.10.93.21985\\lib/net6.0-windows7.0/UiPath.Interop.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Bitmap.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/concrt140.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/cvextern.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_1.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_2.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_atomic_wait.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_codecvt_ids.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/vcruntime140.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/vcruntime140_1.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.ExternalIntegrations.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.21.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\avalonedit\\6.1.3.50\\lib/net6.0-windows7.0/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\restsharp\\106.15.0\\lib/netstandard2.0/RestSharp.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftOffice365.Activities",
+        "Version": "2.6.24"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.logging\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0\\lib/net6.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\6.0.1\\lib/net6.0/System.Linq.Async.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib/net6.0/System.Linq.Async.Queryable.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.connectionclient\\2.0.3\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Api.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24"
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
         "C:\\Users\\luisf\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
@@ -112,20 +336,17 @@
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Common.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.17\\lib/net5.0/Microsoft.Extensions.ObjectPool.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib/netstandard2.1/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib/net6.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.2.15\\runtimes/win/lib/net6.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\3.0.0\\runtimes/win-x64/lib/netstandard1.6/microsoft.management.infrastructure.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\3.0.0\\runtimes/win-x64/lib/netstandard1.6/microsoft.management.infrastructure.native.dll",
@@ -164,8 +385,8 @@
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.duplex\\4.9.0\\lib/net6.0/System.ServiceModel.Duplex.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.http\\4.9.0\\lib/net6.0/System.ServiceModel.Http.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.nettcp\\4.9.0\\lib/net6.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib/net6.0/System.ServiceModel.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib/net6.0/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib/net6.0/System.ServiceModel.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.security\\4.9.0\\lib/net6.0/System.ServiceModel.Security.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.syndication\\6.0.0\\lib/net6.0/System.ServiceModel.Syndication.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\system.serviceprocess.servicecontroller\\6.0.1\\runtimes/win/lib/net6.0/System.ServiceProcess.ServiceController.dll",
@@ -174,162 +395,15 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Testing.Activities",
-        "Version": "24.10.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\automapper\\9.0.0\\lib/netstandard2.0/AutoMapper.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
-      ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.UIAutomation.Activities",
-        "Version": "24.10.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.2\\lib/netstandard2.0/Polly.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath\\24.10.93.21985\\lib/net6.0-windows7.0/UiPath.Interop.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/concrt140.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/cvextern.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Bitmap.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Platform.NetStandard.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_1.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_2.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_atomic_wait.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_codecvt_ids.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/vcruntime140.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/vcruntime140_1.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.activities\\3.20.3\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.CV.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.ExternalIntegrations.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
-      ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.AmazonWebServices.Activities",
-        "Version": "2.7.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\3.0.0\\lib/netstandard2.0/Amazon.Extensions.Configuration.SystemsManager.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.appconfig\\3.7.0.52\\lib/netcoreapp3.1/AWSSDK.AppConfig.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.core\\3.7.3.8\\lib/netcoreapp3.1/AWSSDK.Core.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.ec2\\3.7.28.3\\lib/netcoreapp3.1/AWSSDK.EC2.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.1\\lib/netstandard2.0/AWSSDK.Extensions.NETCore.Setup.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.identitymanagement\\3.7.2.48\\lib/netcoreapp3.1/AWSSDK.IdentityManagement.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.s3\\3.7.3.1\\lib/netcoreapp3.1/AWSSDK.S3.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.5.14\\lib/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib/netstandard2.1/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib/net6.0/Microsoft.Extensions.Primitives.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.2\\lib/netstandard2.0/Polly.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib/netstandard2.0/Polly.Contrib.WaitAndRetry.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.API.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0\\lib/net6.0-windows7.0/UiPath.AmazonWebServices.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.connectionclient\\2.0.3\\lib/net5.0/ConnectionClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
-      ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.7.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.WebAPI.Activities",
-        "Version": "1.21.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\avalonedit\\6.1.3.50\\lib/net6.0-windows7.0/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\restsharp\\106.15.0\\lib/netstandard2.0/RestSharp.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.RulesLibrary.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.ViewModels.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.0\\lib/net6.0-windows7.0/UiPath.Web.dll"
-      ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.webapi.activities\\1.21.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4"
     }
   ],
   "Conflicts": [],
@@ -810,7 +884,7 @@
     },
     "Microsoft.Bcl.AsyncInterfaces": {
       "Id": "Microsoft.Bcl.AsyncInterfaces",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "Microsoft.CodeAnalysis.Analyzers": {
@@ -915,51 +989,37 @@
     },
     "Microsoft.Extensions.Configuration": {
       "Id": "Microsoft.Extensions.Configuration",
-      "Version": "3.1.6",
+      "Version": "2.0.2",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[2.0.2, )"
         }
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions": {
       "Id": "Microsoft.Extensions.Configuration.Abstractions",
-      "Version": "3.1.6",
+      "Version": "2.0.2",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[3.1.6, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.Binder": {
-      "Id": "Microsoft.Extensions.Configuration.Binder",
-      "Version": "3.1.6",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[3.1.6, )"
+          "Item2": "[2.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection": {
       "Id": "Microsoft.Extensions.DependencyInjection",
-      "Version": "6.0.0",
+      "Version": "7.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[6.0.0, )"
-        },
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
+          "Item2": "[7.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions": {
       "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-      "Version": "6.0.0",
+      "Version": "7.0.0",
       "Dependencies": []
     },
     "Microsoft.Extensions.FileSystemGlobbing": {
@@ -967,31 +1027,71 @@
       "Version": "6.0.0",
       "Dependencies": []
     },
-    "Microsoft.Extensions.Logging": {
-      "Id": "Microsoft.Extensions.Logging",
-      "Version": "3.1.6",
+    "Microsoft.Extensions.Http": {
+      "Id": "Microsoft.Extensions.Http",
+      "Version": "7.0.0",
       "Dependencies": [
         {
-          "Item1": "Microsoft.Extensions.Configuration.Binder",
-          "Item2": "[3.1.6, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection",
-          "Item2": "[3.1.6, )"
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging",
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Http.Polly": {
+      "Id": "Microsoft.Extensions.Http.Polly",
+      "Version": "7.0.5",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Http",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.2.3, )"
+        },
+        {
+          "Item1": "Polly.Extensions.Http",
+          "Item2": "[3.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Logging": {
+      "Id": "Microsoft.Extensions.Logging",
+      "Version": "7.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Abstractions",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[7.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions": {
       "Id": "Microsoft.Extensions.Logging.Abstractions",
-      "Version": "6.0.0",
+      "Version": "7.0.0",
       "Dependencies": []
     },
     "Microsoft.Extensions.ObjectPool": {
@@ -1001,27 +1101,22 @@
     },
     "Microsoft.Extensions.Options": {
       "Id": "Microsoft.Extensions.Options",
-      "Version": "6.0.0",
+      "Version": "7.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[6.0.0, )"
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[6.0.0, )"
+          "Item2": "[7.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Primitives": {
       "Id": "Microsoft.Extensions.Primitives",
-      "Version": "6.0.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
+      "Version": "7.0.0",
+      "Dependencies": []
     },
     "Microsoft.Graph": {
       "Id": "Microsoft.Graph",
@@ -1878,6 +1973,45 @@
       "Version": "13.0.3",
       "Dependencies": []
     },
+    "Nito.AsyncEx.Coordination": {
+      "Id": "Nito.AsyncEx.Coordination",
+      "Version": "5.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Nito.AsyncEx.Tasks",
+          "Item2": "[5.1.2, )"
+        },
+        {
+          "Item1": "Nito.Collections.Deque",
+          "Item2": "[1.1.1, )"
+        }
+      ]
+    },
+    "Nito.AsyncEx.Tasks": {
+      "Id": "Nito.AsyncEx.Tasks",
+      "Version": "5.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Nito.Disposables",
+          "Item2": "[2.2.1, )"
+        }
+      ]
+    },
+    "Nito.Collections.Deque": {
+      "Id": "Nito.Collections.Deque",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "Nito.Disposables": {
+      "Id": "Nito.Disposables",
+      "Version": "2.2.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.7.1, )"
+        }
+      ]
+    },
     "NJsonSchema": {
       "Id": "NJsonSchema",
       "Version": "10.5.2",
@@ -1921,13 +2055,23 @@
     },
     "Polly": {
       "Id": "Polly",
-      "Version": "7.2.2",
+      "Version": "7.2.3",
       "Dependencies": []
     },
     "Polly.Contrib.WaitAndRetry": {
       "Id": "Polly.Contrib.WaitAndRetry",
       "Version": "1.1.1",
       "Dependencies": []
+    },
+    "Polly.Extensions.Http": {
+      "Id": "Polly.Extensions.Http",
+      "Version": "3.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Polly",
+          "Item2": "[7.1.0, )"
+        }
+      ]
     },
     "Portable.BouncyCastle": {
       "Id": "Portable.BouncyCastle",
@@ -2864,16 +3008,21 @@
     },
     "System.Linq.Async": {
       "Id": "System.Linq.Async",
-      "Version": "5.0.0",
-      "Dependencies": []
+      "Version": "6.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Linq.Async.Queryable": {
       "Id": "System.Linq.Async.Queryable",
-      "Version": "5.0.0",
+      "Version": "6.0.1",
       "Dependencies": [
         {
           "Item1": "System.Linq.Async",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.1, )"
         }
       ]
     },
@@ -4233,8 +4382,17 @@
     },
     "System.Text.Json": {
       "Id": "System.Text.Json",
-      "Version": "5.0.2",
-      "Dependencies": []
+      "Version": "6.0.9",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Text.RegularExpressions": {
       "Id": "System.Text.RegularExpressions",
@@ -4650,6 +4808,48 @@
       "Version": "23.4.0",
       "Dependencies": []
     },
+    "UiPath.IntegrationService.Activities": {
+      "Id": "UiPath.IntegrationService.Activities",
+      "Version": "1.6.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Http",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Http.Polly",
+          "Item2": "[7.0.5, )"
+        },
+        {
+          "Item1": "Nito.AsyncEx.Coordination",
+          "Item2": "[5.1.2, )"
+        },
+        {
+          "Item1": "Polly.Contrib.WaitAndRetry",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "System.Activities.ViewModels",
+          "Item2": "[1.0.0-20231115.3, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[1.4.5, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.10.3, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.0.41, )"
+        }
+      ]
+    },
     "UiPath.Mail.Activities": {
       "Id": "UiPath.Mail.Activities",
       "Version": "1.23.1",
@@ -4717,6 +4917,60 @@
         {
           "Item1": "System.ValueTuple",
           "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.Activities.RuntimeGovernance",
+          "Item2": "[1.1.6, )"
+        },
+        {
+          "Item1": "UiPath.CodedWorkflows",
+          "Item2": "[24.4.0-preview, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[2.0.3, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.2.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        }
+      ]
+    },
+    "UiPath.MicrosoftOffice365.Activities": {
+      "Id": "UiPath.MicrosoftOffice365.Activities",
+      "Version": "2.6.24",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.95.4, )"
+        },
+        {
+          "Item1": "Microsoft.Graph",
+          "Item2": "[4.11.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.3, )"
+        },
+        {
+          "Item1": "System.Activities.ViewModels",
+          "Item2": "[1.0.0-20240403.2, )"
+        },
+        {
+          "Item1": "System.ComponentModel.Annotations",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Linq.Async.Queryable",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[6.0.9, )"
         },
         {
           "Item1": "UiPath.Activities.RuntimeGovernance",
@@ -4834,11 +5088,11 @@
     },
     "UiPath.System.Activities": {
       "Id": "UiPath.System.Activities",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "UiPath.System.Activities.Runtime",
-          "Item2": "[24.10.3, )"
+          "Item2": "[24.10.4, )"
         },
         {
           "Item1": "CsvHelper",
@@ -4908,17 +5162,17 @@
     },
     "UiPath.System.Activities.Runtime": {
       "Id": "UiPath.System.Activities.Runtime",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "UiPath.System.Activities.Runtime.Windows",
-          "Item2": "[24.10.3, )"
+          "Item2": "[24.10.4, )"
         }
       ]
     },
     "UiPath.System.Activities.Runtime.Windows": {
       "Id": "UiPath.System.Activities.Runtime.Windows",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "CsvHelper",
@@ -5375,8 +5629,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -5563,12 +5817,12 @@
     {
       "Package": {
         "Id": "Microsoft.Bcl.AsyncInterfaces",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0"
     },
     {
       "Package": {
@@ -5641,52 +5895,42 @@
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration",
-        "Version": "3.1.6"
+        "Version": "2.0.2"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.2\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.2"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration.Abstractions",
-        "Version": "3.1.6"
+        "Version": "2.0.2"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.2\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.Binder",
-        "Version": "3.1.6"
-      },
-      "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll"
-      ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.2"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection",
-        "Version": "6.0.0"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.DependencyInjection.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-        "Version": "6.0.0"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0"
     },
     {
       "Package": {
@@ -5700,23 +5944,43 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.Extensions.Logging",
-        "Version": "3.1.6"
+        "Id": "Microsoft.Extensions.Http",
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Http.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http\\7.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Http.Polly",
+        "Version": "7.0.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5\\lib\\netstandard2.0\\Microsoft.Extensions.Http.Polly.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Logging",
+        "Version": "7.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Logging.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Logging.Abstractions",
-        "Version": "6.0.0"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0"
     },
     {
       "Package": {
@@ -5731,22 +5995,22 @@
     {
       "Package": {
         "Id": "Microsoft.Extensions.Options",
-        "Version": "6.0.0"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Options.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Options.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.options\\7.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Primitives",
-        "Version": "6.0.0"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Primitives.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0"
     },
     {
       "Package": {
@@ -6137,6 +6401,46 @@
     },
     {
       "Package": {
+        "Id": "Nito.AsyncEx.Coordination",
+        "Version": "5.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\lib\\netstandard2.0\\Nito.AsyncEx.Coordination.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2"
+    },
+    {
+      "Package": {
+        "Id": "Nito.AsyncEx.Tasks",
+        "Version": "5.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\lib\\netstandard2.0\\Nito.AsyncEx.Tasks.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2"
+    },
+    {
+      "Package": {
+        "Id": "Nito.Collections.Deque",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.collections.deque\\1.1.1\\lib\\netstandard2.0\\Nito.Collections.Deque.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\nito.collections.deque\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "Nito.Disposables",
+        "Version": "2.2.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\nito.disposables\\2.2.1\\lib\\netstandard2.1\\Nito.Disposables.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\nito.disposables\\2.2.1"
+    },
+    {
+      "Package": {
         "Id": "NJsonSchema",
         "Version": "10.5.2"
       },
@@ -6161,22 +6465,22 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\npoi\\2.5.5"
     },
     {
       "Package": {
         "Id": "Polly",
-        "Version": "7.2.2"
+        "Version": "7.2.3"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.2\\lib\\netstandard2.0\\Polly.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.3\\lib\\netstandard2.0\\Polly.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.2"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\polly\\7.2.3"
     },
     {
       "Package": {
@@ -6187,6 +6491,16 @@
         "C:\\Users\\luisf\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib\\netstandard2.0\\Polly.Contrib.WaitAndRetry.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "Polly.Extensions.Http",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\polly.extensions.http\\3.0.0\\lib\\netstandard2.0\\Polly.Extensions.Http.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\polly.extensions.http\\3.0.0"
     },
     {
       "Package": {
@@ -6856,8 +7170,8 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.Messages.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.Messages.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0"
     },
@@ -7082,22 +7396,22 @@
     {
       "Package": {
         "Id": "System.Linq.Async",
-        "Version": "5.0.0"
+        "Version": "6.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\5.0.0\\lib\\netcoreapp3.1\\System.Linq.Async.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\6.0.1\\lib\\net6.0\\System.Linq.Async.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\5.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async\\6.0.1"
     },
     {
       "Package": {
         "Id": "System.Linq.Async.Queryable",
-        "Version": "5.0.0"
+        "Version": "6.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\5.0.0\\lib\\netcoreapp3.1\\System.Linq.Async.Queryable.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib\\net6.0\\System.Linq.Async.Queryable.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\5.0.0"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.linq.async.queryable\\6.0.1"
     },
     {
       "Package": {
@@ -7593,8 +7907,8 @@
         "Version": "4.9.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib\\net6.0\\System.ServiceModel.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib\\net6.0\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib\\net6.0\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\lib\\net6.0\\System.ServiceModel.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0"
     },
@@ -7677,12 +7991,12 @@
     {
       "Package": {
         "Id": "System.Text.Json",
-        "Version": "5.0.2"
+        "Version": "6.0.9"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\system.text.json\\5.0.2\\lib\\netcoreapp3.0\\System.Text.Json.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\system.text.json\\6.0.9\\lib\\net6.0\\System.Text.Json.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.text.json\\5.0.2"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\system.text.json\\6.0.9"
     },
     {
       "Package": {
@@ -7879,10 +8193,10 @@
         "Version": "1.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\concrt140.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\cvextern.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\Emgu.CV.Bitmap.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\concrt140.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\cvextern.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140_1.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140_2.dll",
@@ -7904,9 +8218,9 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\Office.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.API.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.ViewModels.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.excel.activities\\2.23.4"
@@ -7920,6 +8234,17 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.ImageProcessingInterop.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.imageprocessing\\23.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntegrationService.Activities",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0\\lib\\net6.0\\UiPath.IntegrationService.Activities.Runtime.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0\\lib\\net6.0\\UiPath.IntegrationService.Activities.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.integrationservice.activities\\1.6.0"
     },
     {
       "Package": {
@@ -7939,6 +8264,19 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.mail.activities\\1.23.1\\lib\\net6.0-windows7.0\\UiPath.MainSessionServer.Shared.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.mail.activities\\1.23.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftOffice365.Activities",
+        "Version": "2.6.24"
+      },
+      "Assemblies": [
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.Api.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.dll"
+      ],
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.6.24"
     },
     {
       "Package": {
@@ -7985,35 +8323,35 @@
     {
       "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.3"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities\\24.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities.Runtime",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Package.Runtime.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Package.Runtime.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities.Runtime.Windows",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3"
+      "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4"
     },
     {
       "Package": {
@@ -8034,8 +8372,8 @@
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.testing.activities\\24.10.0"
     },
@@ -8061,13 +8399,13 @@
       "Assemblies": [
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.ExternalIntegrations.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.ExternalIntegrations.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.0"
     },
@@ -8089,9 +8427,9 @@
       "Assemblies": [
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\luisf\\.nuget\\packages\\uipath.vision\\3.13.2"
     },
