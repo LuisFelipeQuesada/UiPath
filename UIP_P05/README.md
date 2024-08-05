@@ -1,9 +1,9 @@
 # Project 5
 
-This consist of a simple task in UiPath to make an API call using UIPath.
+This consist of a simple task to make an API call using UiPath.
 
 **Requirements**
-If not installed; UIPath activity to handle API requests must be added to the project.
+If not installed; UiPath activity to handle API requests must be added to the project.
 It can be obtained by searching: *UiPath.WebAPI.Activities*
 
 **Steps**
@@ -12,11 +12,11 @@ It can be obtained by searching: *UiPath.WebAPI.Activities*
 3. Log the response so it can be seen
 
 **Technologies**
-- UIPath
+- UiPath
 - REST API
 
 **Activities**
 - UiPath.WebAPI.Activities
 	- HTTP Request
-- UIPath Activities
+- UiPath Activities
 	- Log Message

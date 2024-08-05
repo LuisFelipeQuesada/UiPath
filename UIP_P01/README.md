@@ -1,6 +1,6 @@
 # Project 1
 
-This consist of a simple task in UIPath to handle an Excel file.
+This consist of a simple task in UiPath to handle an Excel file.
 
 The bot takes a spreasheet and applies a filter to know the number of people that are still working on a company.
 
@@ -28,6 +28,6 @@ Excel modern activities activated
 	- Use Excel file
 	- Filter
 	- Read Range
-- UIPath Activities
+- UiPath Activities
     - Assign
 	- Log Message
