@@ -2,7 +2,7 @@
 
 This consist of a simple task in UiPath.
 
-The bot takes a speasheet and applies a filter to know the number of people that are still working on a company.
+The bot takes a spreasheet and applies a filter to know the number of people that are still working on a company.
 
 This project is done since it is a basic and common operation in companies. To take an Excel file, apply filters and get some info based on that procedure.
 
